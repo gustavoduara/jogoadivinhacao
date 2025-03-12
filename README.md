@@ -47,7 +47,7 @@ de um número gerado aleatoriamente. O jogo poossui diferntes níveis de dificul
 
  ```
 
- dotnet run --project .\JogoDeAdivinhacao.ConsoleApp1
+ dotnet run --project JogoDeAdivinhacao.ConsoleApp
 
  ```
 
@@ -55,7 +55,7 @@ de um número gerado aleatoriamente. O jogo poossui diferntes níveis de dificul
 
  ```
 
- JogoDeAdivinhacaoConsoleApp1.exe
+ JogoDeAdivinhacaoConsoleApp.exe
 
  ```
 
